@@ -54,7 +54,7 @@ Here are the main topics for the class. More topics can be added as per class in
 - Bias-Variance tradeoff and model selection etc.
 - Ensemble methods, bagging and boosting
 - Unsupervised learning
-  - Clustering etc.
+  - Clustering, topic modelling etc.
 - Deep learning
   - Artificial Neural Networks(ANN), End to end learning, cost function
   - Convolutional Neural Networks(CNN) for classification(image) and regression
@@ -63,8 +63,8 @@ Here are the main topics for the class. More topics can be added as per class in
 
 * Grading
 There will be one mid term, a final exam, homework assignments, in class quizzes.
-Worst 2 of your homework assignments and 2 quizzes will be dropped. Students enrolled in 
- COMP 4432 1,  will be asked to do slightly more homework questions.
+We'll drop one of your worst assignment grade*.
+We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks  for  late submitted assignments via email.
 
 
 |-----------------------------------------------------------------------+---------------|
