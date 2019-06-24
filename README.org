@@ -76,9 +76,9 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give
 |-----------------------------------------------------------------------+---------------|
 | Midterm exam,  Time  ??? July, in class, close book and notes         |           20% |
 |-----------------------------------------------------------------------+---------------|
-| Final exam comprehensive,  ??? August, in class close books and notes |           30% |
+| Final exam comprehensive,  ??? August, in class close books and notes |           27% |
 |-----------------------------------------------------------------------+---------------|
-| Final Project presentation and report, ??? August 11.59 p.m           |     (5 + 10)% |
+| Final Project presentation and report, ??? August 11.59 p.m           |     (6 + 12)% |
 |                                                                       |               |
 |-----------------------------------------------------------------------+---------------|
 
