@@ -62,7 +62,8 @@ Here are the main topics for the class. More topics can be added as per class in
   - Generative adversarial networks (GANs) 
 
 * Grading
-There will be one mid term, a final exam, homework assignments, in class quizzes.
+There will be one mid term, a final exam, homework assignments, in class quizzes. A final machine learning related project
+ and presentation will be due at the end of the quarter.
 *We'll drop one of your worst homework assignment and quiz grade*.
 We'll allow 2 late homework with cutoff of 36 hours. We'll give
 
@@ -89,10 +90,10 @@ grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_
 
 *Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html][Honor Yourself, Honor the Code]]*
 
-* Final Project and presentation
+** Final Project and presentation rubric
   Click [[./project_presentation.org][to be added soon]] to see what is  expected in the presentation.
   Click [[./final_project.org][to be added soon]] to see what is expected in final project
-** Datsets for final Projects
+*** Datsets for final Projects
   You can use any dataset you are interested in. Here is some listing of open datasets.
   - [[https://archive.ics.uci.edu/ml/datasets.html][UC Irvine Machine Learning Repository]]
   - [[https://www.kaggle.com/datasets][Kaggle Datasets]]  
