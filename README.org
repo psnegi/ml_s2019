@@ -19,7 +19,7 @@
 - *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
 * Course Description
 We will go through theory behind
-machine learning using tool from probability and linear algebra.
+machine learning using tool from probability, linear algebra and optimization.
 We will use python, its [[https://www.scipy.org/][scientific libraries]] (numpy, scipy, matplotlib, Pandas etc.)
 and [[http://scikit-learn.org/stable/][scikit-learn: Machine Learning in Python]] during the course. For deep neural network part, we will use
 highly popular [[https://www.tensorflow.org/][tensorflow Machine Intelligence]] library from the Google. For assignments, starter code  or hint will be given. 
@@ -27,12 +27,10 @@ At the end of the course, one would have a unifying probabilistic perspective fo
 
 * Software
 There are couple of choice for running the code for this class
- This is the most straight forward option and supports lot fo scientific python including tensorflow and keras for deep learning.
-- Google colab.  https://colab.research.google.com/notebooks/welcome.ipynb
+ Number 1 is the most straight forward option and supports lot of scientific python including tensorflow and keras for deep learning.
+1. Google colab.  https://colab.research.google.com/notebooks/welcome.ipynb
 
-- or Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.6 version data science platform. ]
-See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
-I will go over basic of python and jupyter notebook. For Deep Neural networks, we will go over tensorlfow and keras installation instruction later in the course.
+2. or Please install [[https://www.anaconda.com/distribution/#download-section][Anaconda Distribution]]. See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. I will go over basic of python and jupyter notebook. For Deep Neural networks, we will go over tensorlfow and keras installation instruction later in the course.
 
 ** Deep learning Tensorflow and Keras resources.
 
