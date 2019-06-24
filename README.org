@@ -1,0 +1,134 @@
+*Machine Learning*
+  - Course:   COMP 4432-1, Class time: Mon, Wed 5- 6.50, Engineering and Computer Science - 410
+  - Instructor: [[https://sites.google.com/site/poorannegi/][Pooran Singh Negi]], pooran.negi@gmail.com office 470, *Office Hours*:  T, Th,  3.00 p.m. - 4.30 p.m. Email for 1-on-1 help.
+  - (Head TA: Lombe Chileshe (lombe.chileshe@du.edu), Office ???, *office hours*)
+  - TAs: Daniel Parada(daniel.parada1@gmail.com): Office ???, *office hours*  ), Nidhi Madabhushi, (nidhi.madabhushi@du.edu) Office ???, *office hours*  )
+
+*Credit:* Content on this page contain links to various external resources and images form Kevin Murhopy book  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]].
+
+* Prerequisite
+ - Linear algebra, probability, statistics,
+ - optimization and  programming experience in python and its scientific libraries.
+-  [[http://cs229.stanford.edu/section/cs229-linalg.pdf][linear algebra overview]] 
+-  Read chapter 2 of Kevin Murphy for probabilty and statistics review or any other text you have used in the past
+* TextBooks
+- *Required:*
+  -  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]]. Online version is available in the [[https://library.du.edu/][DU library]].
+- *Optional:*  [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
+- *Optional:*  [[http://www.deeplearningbook.org/][Deep learning]]  by Ian Goodfellow and Yoshua Bengio and Aaron Courville.   It is available online.
+- *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
+* Course Description
+We will go through theory behind
+machine learning using tool from probability and linear algebra.
+We will use python, its [[https://www.scipy.org/][scientific libraries]] (numpy, scipy, matplotlib, Pandas etc.)
+and [[http://scikit-learn.org/stable/][scikit-learn: Machine Learning in Python]] during the course. For deep neural network part, we will use
+highly popular [[https://www.tensorflow.org/][tensorflow Machine Intelligence]] library from the Google. For assignments, starter code  or hint will be given. 
+At the end of the course, one would have a unifying probabilistic perspective for most of the machine learning algorithms, be comfortable using open source tools for building machine learning systems.
+
+* Software
+There are couple of choice for running the code for this class
+ This is the most straight forward option and supports lot fo scientific python including tensorflow and keras for deep learning.
+- Google colab.  https://colab.research.google.com/notebooks/welcome.ipynb
+
+- or Please install [[https://www.anaconda.com/download/][Anaconda for Python 3.6 version data science platform. ]
+See the youtube link [[https://www.youtube.com/watch?v=OOFONKvaz0A][Installing Anaconda, Jupyter Notebook]]. 
+I will go over basic of python and jupyter notebook. For Deep Neural networks, we will go over tensorlfow and keras installation instruction later in the course.
+
+** Deep learning Tensorflow and Keras resources.
+
+
+
+** Python learning resources
+   - [[https://try.jupyter.org/][try python notebook online without installing anything]]
+   - [[http://pythontutor.com/live.html#mode%3Dedit][Runs and visualizes your python code]]
+   - [[https://docs.python.org/3/tutorial/index.html][The Python Tutorial]]  
+* Syllabus
+*This syllabus is subject to change at the discretion of the instructor*
+Here are the main topics for the class. More topics can be added as per class interest and available time.
+- Basic idea of machine learning, and probability
+- Generative models, parametric estimation and supervised learning.
+  - Naive Bayes classifier etc.
+- Gaussian models
+- Linear and logistic regression
+- Support vector machine, Kernels
+- Decision tree.
+- Probabilistic graphical model.
+- Bias-Variance tradeoff and model selection etc.
+- Ensemble methods, bagging and boosting
+- Unsupervised learning
+  - Clustering etc.
+- Deep learning
+  - Artificial Neural Networks(ANN), End to end learning, cost function
+  - Convolutional Neural Networks(CNN) for classification(image) and regression
+  - Recurrent Neural Networks for natural language processing(NLP) and time series data
+  - Generative adversarial networks (GANs) 
+
+* Grading
+There will be one mid term, a final exam, homework assignments, in class quizzes.
+Worst 2 of your homework assignments and 2 quizzes will be dropped. Students enrolled in 
+ COMP 4432 1,  will be asked to do slightly more homework questions.
+
+
+|-----------------------------------------------------------------------+---------------|
+| Homework + Quizzes                                                    | 35(25 + 10) % |
+|-----------------------------------------------------------------------+---------------|
+| Midterm exam,  Time  ??? July, in class, close book and notes         |           20% |
+|-----------------------------------------------------------------------+---------------|
+| Final exam comprehensive,  ??? August, in class close books and notes |           30% |
+|-----------------------------------------------------------------------+---------------|
+| Final Project presentation and report, ??? August 11.59 p.m           |     (5 + 10)% |
+|                                                                       |               |
+|-----------------------------------------------------------------------+---------------|
+
+
+grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_minus', >=77), ('C_plus', >=73), ('C', >=69), ('C_minus', >=65),
+ ('D_plus', >61), ('D', >=57), ('D_minus', >=53),  ('F', < 53)])
+
+
+*Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html][Honor Yourself, Honor the Code]]*
+
+* Final Project and presentation
+  Click [[./project_presentation.org][project presentation]] to see what is  expected in the presentation.
+  Click [[./final_project.org][Here]] to see what is expected in final project
+** Datsets for final Projects
+  You can use any dataset you are interested in. Here is some listing of open datasets.
+  - [[https://archive.ics.uci.edu/ml/datasets.html][UC Irvine Machine Learning Repository]]
+  - [[https://www.kaggle.com/datasets][Kaggle Datasets]]  
+  - [[https://github.com/niderhoff/nlp-datasets][nlp-datasets]]
+  - [[https://data.worldbank.org/][World Bank Data]]
+  - [[https://catalog.data.gov/dataset][U.S. Government's open data]]
+  - [[https://www.census.gov/][United States Census Bureau]]
+  - [[https://www.ncdc.noaa.gov/][National Climatic Data Center - NOAA]]
+  - [[http://www.internationalgenome.org/data][IGSR: The International Genome Sample Resource]]
+
+
+* Quiz
+|------+------------|
+| quiz | sol        |
+|------+------------|
+
+
+* Midterm
+| Midterm                                                                   | solution |
+|---------------------------------------------------------------------------+----------|
+
+
+* Homework
+Homework numbers are as per *Kevin Murphy ebook from the library*
+
+
+
+* Course Lectures
+
+
+| Date    | Reading assignment                                                                          | uploaded slides/notebooks |
+|---------+---------------------------------------------------------------------------------------------+---------------------------|
+| 24 June | Read chapter 1 of Kevin Murphy and Basic of probability from chapter 2 upto 2.4.1 and 2.4.6 |                           |
+|         | Detail [[https://www.scipy-lectures.org/][Scipy Lecture Notes]] . Practice 1.3.1 and 1.3.2, 1.4.1 to 1.4.2.8 in Jupyter notebook |                           |
+|         |                                                                                             |                           |
+|         |                                                                                             |                           |
+|---------+---------------------------------------------------------------------------------------------+---------------------------|
+| 26 June | section 2.2, 2.3, 2.4[.1, .2, .3, .4, .5, .6], 2.5[.1, .2, .4], 2.6.1, 2.8 of kevin Murphy  |                           |
+|         | 3.1-3.2.4                                                                                   |                           |
+|---------+---------------------------------------------------------------------------------------------+---------------------------|
+
