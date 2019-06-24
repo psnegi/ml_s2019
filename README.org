@@ -90,8 +90,8 @@ grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_
 *Please respect DU [[https://www.du.edu/studentlife/studentconduct/honorcode.html][Honor Yourself, Honor the Code]]*
 
 * Final Project and presentation
-  Click [[./project_presentation.org][project presentation]] to see what is  expected in the presentation.
-  Click [[./final_project.org][Here]] to see what is expected in final project
+  Click [[./project_presentation.org][to be added soon]] to see what is  expected in the presentation.
+  Click [[./final_project.org][to be added soon]] to see what is expected in final project
 ** Datsets for final Projects
   You can use any dataset you are interested in. Here is some listing of open datasets.
   - [[https://archive.ics.uci.edu/ml/datasets.html][UC Irvine Machine Learning Repository]]
