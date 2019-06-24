@@ -63,8 +63,12 @@ Here are the main topics for the class. More topics can be added as per class in
 
 * Grading
 There will be one mid term, a final exam, homework assignments, in class quizzes.
-We'll drop one of your worst assignment grade*.
-We'll allow 2 late homework with cutoff of 36 hours. We'll give *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks  for  late submitted assignments via email.
+*We'll drop one of your worst homework assignment and quiz grade*.
+We'll allow 2 late homework with cutoff of 36 hours. We'll give
+
+ *ceil(total_marks_obtained*exp(-(minutes late)/(24*60)))* marks
+
+  for  late submitted assignments via email.
 
 
 |-----------------------------------------------------------------------+---------------|
