@@ -1,9 +1,9 @@
 *Machine Learning*
   - Course:   COMP 4432-1, Class time: Mon, Wed 5- 6.50, Engineering and Computer Science - 410
   - Instructor: [[https://sites.google.com/site/poorannegi/][Pooran Singh Negi]], pooran.negi@gmail.com office 470, *Office Hours*:  T, Th,  3.00 p.m. - 4.30 p.m. Email for 1-on-1 help.
-  - (Head TA: Lombe Chileshe (lombe.chileshe@du.edu), Office ???, *Th 10 -12 a.m*)
-  - TA: Daniel Parada(daniel.parada1@gmail.com): Office ???, *M, Tue, W 8-10 a.m*  )
-  - TA:  Nidhi Madabhushi, (nidhi.madabhushi@du.edu) Office ???, *M, W, 3-5 p.m*  )
+  - (Head TA: Lombe Chileshe (lombe.chileshe@du.edu), Office ECS 358, *Th 10 -12 a.m*)
+  - TA: Daniel Parada(daniel.parada1@gmail.com): Office ECS 358, *M, Tue, W 8-10 a.m*  )
+  - TA:  Nidhi Madabhushi, (nidhi.madabhushi@du.edu) Office ECS 358, *M, W, 3-5 p.m*  )
 
 *Credit:* Content on this page contain links to various external resources and images form Kevin Murhopy book  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]].
 
