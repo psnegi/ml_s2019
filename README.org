@@ -1,8 +1,9 @@
 *Machine Learning*
   - Course:   COMP 4432-1, Class time: Mon, Wed 5- 6.50, Engineering and Computer Science - 410
   - Instructor: [[https://sites.google.com/site/poorannegi/][Pooran Singh Negi]], pooran.negi@gmail.com office 470, *Office Hours*:  T, Th,  3.00 p.m. - 4.30 p.m. Email for 1-on-1 help.
-  - (Head TA: Lombe Chileshe (lombe.chileshe@du.edu), Office ???, *office hours*)
-  - TAs: Daniel Parada(daniel.parada1@gmail.com): Office ???, *office hours*  ), Nidhi Madabhushi, (nidhi.madabhushi@du.edu) Office ???, *office hours*  )
+  - (Head TA: Lombe Chileshe (lombe.chileshe@du.edu), Office ???, *Th 10 -12 a.m*)
+  - TA: Daniel Parada(daniel.parada1@gmail.com): Office ???, *M, Tue, W 8-10 a.m*  )
+  - TA:  Nidhi Madabhushi, (nidhi.madabhushi@du.edu) Office ???, *M, W, 3-5 p.m*  )
 
 *Credit:* Content on this page contain links to various external resources and images form Kevin Murhopy book  [[https://www.cs.ubc.ca/~murphyk/MLbook/][Machine Learning: a Probabilistic Perspective by Kevin Patrick Murphy]].
 
@@ -17,6 +18,13 @@
 - *Optional:*  [[http://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani]]. It is available online in pdf format
 - *Optional:*  [[http://www.deeplearningbook.org/][Deep learning]]  by Ian Goodfellow and Yoshua Bengio and Aaron Courville.   It is available online.
 - *Optional:* For more advance treatment [[https://web.stanford.edu/~hastie/ElemStatLearn/][The Elements of Statistical Learning]]. It is available online in pdf format   
+- *Optional:* [[https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1787125939/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=][Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition by  Sebastian Raschka and  Vahid]] ((Daniel Parada suggested this))
+- *Optional:* [[https://www.amazon.com/gp/product/B06XNKV5TS/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0][Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems]] by Aurélien Géron
+** More resources
+*** Linear algebra
+- [[https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab][Essence of linear algebra by 3Blue1Brown]] (Daniel Parada suggested this)
+- [[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/][Linear algebra MIT OCW by Prof. Gilbert Strang]] 
+
 * Course Description
 We will go through theory behind
 machine learning using tool from probability, linear algebra and optimization.
@@ -72,16 +80,16 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give
   for  late submitted assignments via email.
 
 
-|-----------------------------------------------------------------------+---------------|
-| Homework + Quizzes                                                    | 35(25 + 10) % |
-|-----------------------------------------------------------------------+---------------|
-| Midterm exam,  Time  ??? July, in class, close book and notes         |           20% |
-|-----------------------------------------------------------------------+---------------|
-| Final exam comprehensive,  ??? August, in class close books and notes |           27% |
-|-----------------------------------------------------------------------+---------------|
-| Final Project presentation and report, ??? August 11.59 p.m           |     (6 + 12)% |
-|                                                                       |               |
-|-----------------------------------------------------------------------+---------------|
+|----------------------------------------------------------------------------+---------------|
+| Homework + Quizzes                                                         | 35(25 + 10) % |
+|----------------------------------------------------------------------------+---------------|
+| Midterm exam,  Time  22 July, in class, close book and notes               |           20% |
+|----------------------------------------------------------------------------+---------------|
+| Final exam comprehensive,  ??? August, in class close books and notes      |           27% |
+|----------------------------------------------------------------------------+---------------|
+| Final Project presentation and report/ML competition, ??? August 11.59 p.m |     (6 + 12)% |
+|                                                                            |               |
+|----------------------------------------------------------------------------+---------------|
 
 
 grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_minus', >=77), ('C_plus', >=73), ('C', >=69), ('C_minus', >=65),
