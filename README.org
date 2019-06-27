@@ -87,7 +87,7 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give
 |-----------------------------------------------------------------------+---------------|
 | Final exam comprehensive,  ??? August, in class close books and notes |           27% |
 |-----------------------------------------------------------------------+---------------|
-| ML competition, report submission ??? August 11.59 p.m                |     (6 + 12)% |
+| ML competition, report submission ??? August 11.59 p.m                |           18% |
 |                                                                       |               |
 |-----------------------------------------------------------------------+---------------|
 
