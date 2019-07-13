@@ -117,24 +117,24 @@ grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_
 Homework numbers are as per *Kevin Murphy ebook from the library*
 
 *Note that we will merge part a and b of homeworks  to create a final grade for homeworks. i,e HW1a amd HW1b will be merged to create HW1 for recording final grade of HW1*
-| HW |    |                                                                                                          | Due date            | sol |
-|----+----+----------------------------------------------------------------------------------------------------------+---------------------+-----|
-|    |    |                                                                                                          |                     |     |
-|  1 | 1a | *coding part*:  [[https://colab.research.google.com/github/psnegi/ml_s2019/blob/master/hws/hw1a_python_numpy_questions.ipynb][python_numpy questions]]                                                                   | 3rd July 11.59 p.m  |     |
-|----+----+----------------------------------------------------------------------------------------------------------+---------------------+-----|
-|  1 | 1b | *written part*: Problem numbers are from kevin murphy book. *Use DU  library version*.                   |                     |     |
-|    |    | submit written solution: Chapter 2, 2.1(use bayes rule, condition on event actually observed.            | 5 th July 11.59 p.m |     |
-|    |    | like in part a say N_b = number of boys, N_g no of girls) (2 = 1+1 point), 2.3 (.5 point), 2.4(1 point), |                     |     |
-|    |    | 2.6(1 = .5+.5 point), 2.16(1.5= .5+.5+.5 points)                                                         |                     |     |
-|    |    | *Look for chapter 2 for definitions like section 2.2.4 for*                                              |                     |     |
-|    |    | *Independence and conditional independence.  Explain various steps in the work*                          |                     |     |
-|----+----+----------------------------------------------------------------------------------------------------------+---------------------+-----|
-|  2 | 2b | Chpater 2,    2.13 (1 point, hint: I(X,Y) = H(X) + H(Y) - H(X,Y))                                        | 12 th July 11.59    |     |
-|    |    | chapter 3,    3.6 (1 point), 3.7(1 point each), 3.11(.5 point each), 3.20(.5 point each),                  |                     |     |
-|----+----+----------------------------------------------------------------------------------------------------------+---------------------+-----|
-|    |    |                                                                                                          |                     |     |
-|----+----+----------------------------------------------------------------------------------------------------------+---------------------+-----|
-|    |    |                                                                                                          |                     |     |
+| HW |    |                                                                                                          | Due date               | sol |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|    |    |                                                                                                          |                        |     |
+|  1 | 1a | *coding part*:  [[https://colab.research.google.com/github/psnegi/ml_s2019/blob/master/hws/hw1a_python_numpy_questions.ipynb][python_numpy questions]]                                                                   | 3rd July 11.59 p.m     |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|  1 | 1b | *written part*: Problem numbers are from kevin murphy book. *Use DU  library version*.                   |                        |     |
+|    |    | submit written solution: Chapter 2, 2.1(use bayes rule, condition on event actually observed.            | 5 th July 11.59 p.m    |     |
+|    |    | like in part a say N_b = number of boys, N_g no of girls) (2 = 1+1 point), 2.3 (.5 point), 2.4(1 point), |                        |     |
+|    |    | 2.6(1 = .5+.5 point), 2.16(1.5= .5+.5+.5 points)                                                         |                        |     |
+|    |    | *Look for chapter 2 for definitions like section 2.2.4 for*                                              |                        |     |
+|    |    | *Independence and conditional independence.  Explain various steps in the work*                          |                        |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|  2 | 2b | Chpater 2,    2.13 (1 point, hint: I(X,Y) = H(X) + H(Y) - H(X,Y))                                        | 12 th July 11.59 p.m   |     |
+|    |    | chapter 3,    3.6 (1 point), 3.7(1 point each), 3.11(.5 point each), 3.20(.5 point each),                |                        |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|  2 | 2a | [[./hws/implementing_naive_bayes_airlines_sentiment.ipynb][implementing naive bayes airlines sentiment]]                                                              | 19 th July   11.59 p.m |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|    |    |                                                                                                          |                        |     |
 
 * Course Lectures
 
