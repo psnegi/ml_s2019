@@ -134,8 +134,15 @@ Homework numbers are as per *Kevin Murphy ebook from the library*
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
 |  2 | 2a | [[./hws/implementing_naive_bayes_airlines_sentiment.ipynb][implementing naive bayes airlines sentiment]]                                                              | 19 th July   11.59 p.m |     |
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|  3 | 3a | [[https://colab.research.google.com/github/psnegi/ml_s2019/blob/master/hws/QDA.ipynb][implementating QDA notebook]]                                                                              | 24 th July 11.59 p..m  |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|  3 | 3b | Q1 (2 point)- Prove that If $Σ_c$ (covariance matrix for class c) is                                     | 19 th July 11.59  p.m  |     |
+|    |    | diagonal, then Gaussian discriminant analysis is equivalent to naive Bayes.                              |                        |     |
+|    |    | From the book 4.1 (1 point )(look into section 2.5.1 for definition of                                   |                        |     |
+|    |    | correlation coefficient), 4.14(2 point .5 points each)                                                   |                        |     |
+|    |    | 4.21(2 = 1 + 1 point ), 4.22(1 = .5+.5 point),                                                           |                        |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
 |    |    |                                                                                                          |                        |     |
-
 * Course Lectures
 
 
