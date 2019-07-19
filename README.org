@@ -111,9 +111,11 @@ grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_
 
 
 * Midterm
-| Midterm                                                                   | solution |
-|---------------------------------------------------------------------------+----------|
-
+| Midterm          | solution |
+|------------------+----------|
+| [[./hws/midterm_2019_practice.pdf][practice midterm]] |          |
+|------------------+----------|
+|                  |          |
 
 * Homework
 Homework numbers are as per *Kevin Murphy ebook from the library*
