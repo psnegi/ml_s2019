@@ -113,7 +113,7 @@ grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_
 * Midterm
 | Midterm          | solution |
 |------------------+----------|
-| [[./hws/midterm_2019_practice.pdf][practice midterm]] |          |
+| [[./hws/midterm_2019_practice.pdf][practice midterm]] | [[./hws/midterm_2019_practice_sol.pdf][sol]]      |
 |------------------+----------|
 |                  |          |
 
