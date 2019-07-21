@@ -25,6 +25,14 @@
 - [[https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab][Essence of linear algebra by 3Blue1Brown]] (Daniel Parada suggested this)
 - [[https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/][Linear algebra MIT OCW by Prof. Gilbert Strang]] 
 
+
+*** YOutube resources
+- [[https://www.youtube.com/watch?v=_m7TMkzZzus][Ali Ghodsi, Lec 2: Machine learning. classification, Linear and quadrtic discriminant analysis]] (provided by Logan)
+*** discriminative vs generative models
+ - [[http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf?source=post_page---------------------------][Generative vs Discriminant by Andrew Ng @ Stanford]] (provided by Logan)
+
+
+
 * Course Description
 We will go through theory behind
 machine learning using tool from probability, linear algebra and optimization.
