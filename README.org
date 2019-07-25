@@ -159,6 +159,17 @@ Homework numbers are as per *Kevin Murphy ebook from the library*
 |    |    | 4.21(2 = 1 + 1 point ), 4.22(1 = .5+.5 point),                                                           |                        |     |
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
 |    |    |                                                                                                          |                        |     |
+|  4 | a  | [[https://colab.research.google.com/github/psnegi/ml_s2019/blob/master/hws/linear_regression_hw4_a.ipynb][linear ridge regression using tensorflow]]                                                                 | 31 July 11.59          |     |
+|    |    |                                                                                                          |                        |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|    |    | (2 points) From the book using equation                                                                  | 2 August 11.59 p.m     |     |
+|  4 | b  | 7.30, 7.31 derive equation 7.32(ridge regression)                                                        |                        |     |
+|    |    |                                                                                                          |                        |     |
+|    |    | 7.2 (1 point)(check the formula for W in the book. X transpose is missing)                               |                        |     |
+|    |    | 7.4 (2 point), 7.9 (2=1.5+.5 points), 8.3(2 = .5 + 1.5 + 1 points )                                      |                        |     |
+|----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|    |    |                                                                                                          |                        |     |
+
 * Course Lectures
 
 
