@@ -166,7 +166,10 @@ Homework numbers are as per *Kevin Murphy ebook from the library*
 |    |    | 7.2 (1 point)(check the formula for W in the book. X transpose is missing)                               |                        |     |
 |    |    | 7.4 (2 point), 7.9 (2=1.5+.5 points), 8.3(2 = .5 + 1.5 + 1 points )                                      |                        |     |
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
+|  5 | a  | [[https://colab.research.google.com/github/psnegi/ml_s2019/blob/master/hws/hw5a_tensorflow_multi_class_logistic_regression.ipynb][tensorflow multiclass logistic regression]]                                                                | 8 th August 11.59 p.m  |     |
 |    |    |                                                                                                          |                        |     |
+|  5 | b  |                                                                                                          |                        |     |
+
 
 * Course Lectures
 
