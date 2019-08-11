@@ -172,7 +172,7 @@ Homework numbers are as per *Kevin Murphy ebook from the library*
 |    |    |                                                                                                          |                        |     |
 |    |    | [[https://colab.research.google.com/github/psnegi/ml_s2019/blob/master/hws/ml_competition_and_sample_code.ipynb][ml competition notebook and sample code]]                                                                  | 16 th August 11.59 p.m |     |
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
-|  6 | a  |                                                                                                          |                        |     |
+|  6 | a  | [[./hws/HW6a_SVM_sklearn_questions.ipynb][HW6a SVM sklearn questions]]                                                                               | 15 th August 11.59 p.m |     |
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
 |  6 | b  | [[./hws/hw6b.pdf][Written homework]]                                                                                         | 13 th August 11.59     |     |
 |----+----+----------------------------------------------------------------------------------------------------------+------------------------+-----|
