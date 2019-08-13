@@ -102,7 +102,7 @@ We'll allow 2 late homework with cutoff of 36 hours. We'll give
 |-------------------------------------------------------------------------+---------------|
 | There is an optional extra class on Friday  16 th August                |               |
 |-------------------------------------------------------------------------+---------------|
-| ML competition, notebook submission 16 August 11.59 p.m                 |           18% |
+| ML competition, notebook submission 17 August 11.59 p.m                 |           18% |
 |                                                                         |               |
 |-------------------------------------------------------------------------+---------------|
 
