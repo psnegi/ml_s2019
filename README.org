@@ -126,7 +126,7 @@ grade range [('A', >=93), ('A_minus', >=89), ('B_plus', >=85), ('B', >=81), ('B_
 |    2 | [[./hws/quiz2_15_july_2019_sol.pdf][sol]] |
 |      |     |
 |------+-----|
-|    3 | [[./hws/quiz3.jpg][sol]] |
+|    3 | [[./hws/quiz3_sol.pdf][sol]] |
 |      |     |
 
 
